@@ -57,7 +57,8 @@ _italics-2_
 
 ### writing lines as they are
 `<p> paragraph </p>` </br>
-`<h1> headings </h1>`
+`<h1> headings </h1>` </br>
+`# heading1 `
 
 ### code block
 
