@@ -43,6 +43,13 @@ _italics-2_
 
 <!---ordered lists-->
 
- 1. item1
- 2. 
- 
+1. item1
+2. item2
+3. item3 
+
+---
+<!---unordered lists-->
+
+* item1
+* item2
+* item3
