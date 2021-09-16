@@ -25,7 +25,7 @@ _italics-2_
 
 ~strike through~
 
-*/adding these symbols*/
+\*adding predefined symbols with texts\*
 
 >this is a highlight
 
@@ -56,7 +56,7 @@ _italics-2_
 * item3
 
 ### writing lines as they are
-`<p> paragraph </p>`
+`<p> paragraph </p>` </br>
 `<h1> headings </h1>`
 
 ### code block
