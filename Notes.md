@@ -71,3 +71,8 @@ _italics-2_
 <h1> hello </h1>
 </head>
 ```
+### table
+
+| column-1 | column-2 |
+| -------- | -------- | 
+|  items   |  items   |
