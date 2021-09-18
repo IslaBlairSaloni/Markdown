@@ -54,6 +54,9 @@ _italics-2_
 * item1
 * item2
 * item3
+    * item 3.1 <!--- nested items -->
+    * item 3.2 <!--- can be added -->
+    * item 3.3 <!--- with four spaces -->
 
 ### writing lines as they are
 `<p> paragraph </p>` </br>
@@ -63,7 +66,11 @@ _italics-2_
 ### code block
 
 <!--- ```language 
+          .
+          .         
          code 
+          .
+          .
        ```  
 -->
 ```html
@@ -75,4 +82,15 @@ _italics-2_
 
 | column-1 | column-2 |
 | -------- | -------- | 
-|  items   |  items   |
+|   item   |   item   |
+|   item   |   item   |
+|   item   |   item   |
+
+### check list
+
+<!--- * [<space>] task -->
+
+[ ] task-1
+[ ] task-2
+
+
