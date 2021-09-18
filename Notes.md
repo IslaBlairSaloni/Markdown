@@ -95,18 +95,18 @@ _italics-2_
 
 ### paragraphs
 
-<!--- one way to add line breaks is using </br> 
+<!--- one way to add line breaks is using <br/> 
 but it will give more space, to make it look
-like a normal paragraph Use (..) after each line -->  
+like a normal paragraph Use (•) after each line -->  
 
-#### using (..)
-this is the first line,..
-and this is the second one...
-i have used (..) in the last...
+#### using (•)
+this is the first line,•
+and this is the second one.•
+i have used (•) in the last.•
 
-#### using the (\</br\>) tag
-if you use breaks..
-it will look like </br>
+#### using the (\<br/\>) tag
+if you use breaks.•
+it will look like <br/>
 this
 
 
