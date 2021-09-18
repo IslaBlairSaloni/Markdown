@@ -96,7 +96,7 @@ _italics-2_
 ### paragraphs
 
 <!--- one way is, to add line breaks i.e. using 
-<br/> or use paragraph tags <p></p> 
+<br/> or use paragraph tags <p></p> -->
 
 <p>this is used with a paragraph tag. everything
 you write here will be counted as a para.</p> 
